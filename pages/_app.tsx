@@ -11,7 +11,7 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => {
           href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;700;800&display=swap"
           rel="stylesheet"
         ></link>
-        <title>Interior Home Design</title>
+        <title>New Look ~ Home Design & Structures LLC</title>
         <meta
           name="description"
           content="Interior home design project made using Next.js and Chakra UI"
